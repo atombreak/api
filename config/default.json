@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://mushafrontend:Musha2@mushaapp.itt7mvq.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "QKamrLCbBJNCrsk56zulnYvrgg91e0RuNlk5Vw6XXvSem6mY0cmLT5Dv6gwAPfsGlq3E2BDV9UeheJIQ3wjlY4fuVOatK5QXOa7voSWmlfwzR9miVnxHgW2zbhBYDjLuddvtow43m0W0BX1YaMNZ1BK3Q7aOUykL",
+  "jwtExpiration": 32400000
+}
